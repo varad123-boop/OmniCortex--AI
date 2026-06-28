@@ -1,0 +1,14 @@
+opencv-python
+opencv-contrib-python
+numpy
+torch
+torchvision
+ultralytics
+easyocr
+pyzbar
+transformers
+scikit-learn
+matplotlib
+pandas
+flask
+streamlit
