@@ -1,0 +1,21 @@
+Camera
+      │
+      ▼
+YOLOv11
+      │
+ORB-SLAM3
+      │
+Deep SORT
+      │
+OCR
+      │
+Barcode
+      │
+SAM2
+      │
+CLIP
+      │
+EfficientNet
+      │
+      ▼
+Dashboard
