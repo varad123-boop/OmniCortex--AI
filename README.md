@@ -1,10 +1,10 @@
 ```markdown
-# AeroSense AI
+# OmniCortex AI
 ### Software-Defined Autonomous Industrial Intelligence Network
 
-AeroSense AI is an AI-powered autonomous drone platform designed to improve **industrial security, warehouse automation, predictive maintenance, environmental monitoring, and smart factory operations**. The system uses a **single optical camera** mounted on a drone and replaces multiple expensive onboard sensors through a **software-defined sensing approach**.
+OmniCortex AI is an AI-powered autonomous drone platform designed to improve **industrial security, warehouse automation, predictive maintenance, environmental monitoring, and smart factory operations**. The system uses a **single optical camera** mounted on a drone and replaces multiple expensive onboard sensors through a **software-defined sensing approach**.
 
-Instead of relying on LiDAR, thermal cameras, and other specialized hardware, AeroSense AI streams live aerial video to a ground station where Artificial Intelligence, Machine Learning, and Computer Vision transform the video into a **20+ Vision Matrix** capable of performing multiple industrial inspection tasks simultaneously.
+Instead of relying on LiDAR, thermal cameras, and other specialized hardware, OmniCortex AI streams live aerial video to a ground station where Artificial Intelligence, Machine Learning, and Computer Vision transform the video into a **20+ Vision Matrix** capable of performing multiple industrial inspection tasks simultaneously.
 
 ---
 
@@ -28,7 +28,7 @@ Instead of relying on LiDAR, thermal cameras, and other specialized hardware, Ae
 
 Industries rely on multiple expensive inspection systems, manual monitoring, and specialized hardware for security, maintenance, warehouse operations, and environmental compliance. These approaches increase operational costs, reduce scalability, and expose workers to hazardous environments.
 
-AeroSense AI addresses these challenges by transforming a single autonomous drone into a multi-purpose industrial intelligence platform using AI instead of expensive hardware sensors.
+OmniCortex AI addresses these challenges by transforming a single autonomous drone into a multi-purpose industrial intelligence platform using AI instead of expensive hardware sensors.
 
 ---
 
