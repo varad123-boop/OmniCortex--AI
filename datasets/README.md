@@ -1,8 +1,8 @@
-# AeroSense AI Dataset
+# OmniCortex AI Dataset
 
 ## Overview
 
-The AeroSense AI platform uses a combination of publicly available datasets, custom industrial images, and real-time aerial video captured by the onboard camera.
+The OmniCortex AI platform uses a combination of publicly available datasets, custom industrial images, and real-time aerial video captured by the onboard camera.
 
 The datasets support multiple AI modules, including object detection, tracking, OCR, digital twin generation, predictive maintenance, image segmentation, and warehouse automation.
 
@@ -31,4 +31,4 @@ The datasets support multiple AI modules, including object detection, tracking, 
 
 ## Purpose
 
-These datasets enable AeroSense AI to perform accurate detection, tracking, inspection, and monitoring across industrial environments.
+These datasets enable OmniCortex AI to perform accurate detection, tracking, inspection, and monitoring across industrial environments.
